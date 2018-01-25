@@ -13,7 +13,7 @@
         <!-- Links -->
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/">Accueil<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="index.php/presentation-animaux/">Les poneys</a>

@@ -1,0 +1,11 @@
+Documentation :
+
+Pour modifier une page (exemple la page presentation):
+-Dans l'interface du menu sur la gauche cliquer sur Pages > Présentation animaux > Renseignez les champs obligatoire(ceux avec une étoile)
+-Cliquer sur mettre à jour
+
+Shortcode & Plugin
+Vérifier que le Plugin hello est activer dans extension
+si ce n'est pas le cas cliquez sur activez
+pour ajouter le texte "j'aime les poneys" écrire dans une zone de texte le shortcode [hello]
+exemple : "Je suis truc [hello]" va écrire Je suis truc j'aime les poneys
